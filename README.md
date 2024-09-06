@@ -12,6 +12,10 @@
 
 ## Dark matter analysis tool
 
+<p align="center">
+  <img src="img/astro-logo.png" width="400"/>
+</p>
+
 Load hdf5 files containing GADGET-2 simulation snapshots
 and divide these structures into radial bins,
 computing dynamical properties inside each bin,
